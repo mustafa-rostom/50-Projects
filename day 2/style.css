@@ -70,16 +70,12 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    border: 3px solid --line-border-empty;
+    border: 3px solid #e0e0e0;
     transition: 0.4s ease;
 }
 
 .circle.active {
-    border-color: red;
-}
-
-.active {
-    border-color: red;
+    border-color: var(--line-border-fill);
 }
 
 .btn {
