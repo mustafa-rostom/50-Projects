@@ -1,5 +1,4 @@
 # Progress Steps
-![day1 1](https://user-images.githubusercontent.com/53842330/155318854-69315220-927c-43dc-8064-493e1ebbae97.png)
-![day 1 2](https://user-images.githubusercontent.com/53842330/155318872-ee761c0a-f021-4c00-8384-68f168347249.png)
-![day1 3](https://user-images.githubusercontent.com/53842330/155318883-a8760733-e50d-47f8-a21a-3debcf6041d7.png)
-![day 1 responsive](https://user-images.githubusercontent.com/53842330/155318926-397bf676-ad4b-48ca-a7ff-6a3311e0f47d.png)
+![day2 1](https://user-images.githubusercontent.com/53842330/155319725-d54913cc-8094-42fe-8739-4ed0e1ca8cc8.png)
+![day 2 2](https://user-images.githubusercontent.com/53842330/155319732-a47ff5c9-e22c-4845-947d-1d06fee2e60d.png)
+![day 2 3](https://user-images.githubusercontent.com/53842330/155319737-f0f99137-f97d-449d-8851-8ab7aed1354b.png)
