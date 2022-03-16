@@ -1,4 +1,4 @@
-# simple animation scroll using css and vanella js 
+# simple animation scroll using css and vanilla js 
 
 I used :
 transform property with value translateX() to hide the content before scrolling (css)
